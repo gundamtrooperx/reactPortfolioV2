@@ -11,7 +11,7 @@ function AboutMe() {
         <div className="container">
             <div className="row">
                 <div className="col-md-4 justify-content-center">
-                    <img src="/images/frankSelfie.jpg" alt="frankSelfie" className="img-fluid img-frankSelfie mx-auto mb-2" id="frankSelfie">
+                    <img src="./images/frankSelfie.jpg" alt="frankSelfie" className="img-fluid img-frankSelfie mx-auto mb-2" id="frankSelfie">
 
                     </img>
                 </div>
