@@ -1,7 +1,6 @@
 import React from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import AboutMe from './pages/AboutMe';
-
 import './App.css';
 import Portfolio from './pages/Portfolio';
 
