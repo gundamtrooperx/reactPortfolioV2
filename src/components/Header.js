@@ -6,11 +6,11 @@ function Header() {
             <a className="navbar-brand" href="/">Frank Carr</a>
             <ul className="social-list list-inline mb-0">
                 <li className="list-inline-item">
-                    <a href="https://www.facebook.com/profile.php?id=100012400890099" class="fa fa-facebook" rel="noopener">
+                    <a href="https://www.facebook.com/profile.php?id=100012400890099" className="fa fa-facebook" rel="noopener">
 
                     </a>
 
-                    <a href="https://github.com/gundamtrooperx?tab=repositories" class="fa fa-github" rel="noopener">
+                    <a href="https://gundamtrooperx?tab=repositories" className="fa fa-github" rel="noopener">
 
                     </a>
                     
