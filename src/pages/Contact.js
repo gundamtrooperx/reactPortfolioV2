@@ -22,9 +22,8 @@ function Contact() {
                             </div>
                             <ul className="list-group list-group-flush" id="contactLines"  >
                                 <li className="list-group-item" id="contactLines">Frank Carr</li>
-                                <li className="list-group-item" id="contactLines"><b>Mobile Number:</b> (502) 974-5784</li>
-                                <li className="list-group-item" id="contactLines"><b>Email:</b> gundamtrooperx@gmail.com</li>
-                                <li className="list-group-item" id="contactLines"> or click below </li>
+                                <li className="list-group-item" id="contactLines"><b>Mobile Number:</b>  (502) 974-5784</li>
+                                <li className="list-group-item" id="contactLines"><b>Email:</b>gundamtrooperx@gmail.com</li>
                             </ul>
                         </Col>
 
