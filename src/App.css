@@ -19,16 +19,18 @@ footer{
   opacity: 0.7;
 }
 
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
-}
-
-#frankSelfie {
+#imgProfile {
   height: 100%;
   width: 100%;
   margin: auto;
   display: flex;
   justify-content: center;
-  
+}
+
+#aboutMeParagraph {
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
 }
