@@ -3,7 +3,7 @@ export const assignments =
 [
     {
         "name":"Project One",
-        "image":"images/projectone1.png",
+        "image":"images/projectone.png",
         "description":"The app for Project One is called Restaurant Finder.  Used to help find certain restaurants in your designated area and can filter through them based on what cuisines you search for.",
         "github":"https://github.com/kerishma/Project-One",
         "deploymenturl":"https://kerishma.github.io/Project-One/",
