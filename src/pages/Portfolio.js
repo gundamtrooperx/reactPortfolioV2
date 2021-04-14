@@ -5,10 +5,12 @@ import Project from '../components/Project';
 import { assignments } from "./Work.js";
 import projectone from './projectone.png'
 import tallPulpRockers from './tallPulpRockers.png'
+import storefront from './storefront.png'
 
 const images = {
   "Project One": projectone ,
-  "Project Two": tallPulpRockers
+  "Project Two": tallPulpRockers ,
+  "Student Store": storefront 
 }
 
 

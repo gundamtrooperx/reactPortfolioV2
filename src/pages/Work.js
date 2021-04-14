@@ -21,10 +21,10 @@ export const assignments =
     
     {
         "name":"Student Store",
-        "image":"./projectone.png",
+        "image":"./storefront.png",
         "description":"Javascripts app with alerts confim and prompt",
         "github":"https://github.com/14Anthony/StudentStore/pulse/monthly",
-        "deploymenturl":"https://gundamtrooperx.github.io/Wk3-bootcamp/",
+        "deploymenturl":"https://sway.office.com/WjxDnGZNf38Csa96?ref=Link",
 
     },
     
