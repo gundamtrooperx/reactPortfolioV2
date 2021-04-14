@@ -4,10 +4,11 @@ import Footer from '../components/Footer.js';
 import Project from '../components/Project';
 import { assignments } from "./Work.js";
 import projectone from './projectone.png'
+import tallPulpRockers from './tallPulpRockers.png'
 
 const images = {
-  "Project One": projectone
-
+  "Project One": projectone ,
+  "Project Two": tallPulpRockers
 }
 
 
