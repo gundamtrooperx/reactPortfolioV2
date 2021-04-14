@@ -12,7 +12,7 @@ export const assignments =
     
     {
         "name":"Project Two",
-        "image":"./projectone.png",
+        "image":"./tallPulpRockers.gif",
         "description":"The app for Project Two is an app that helps you workout anytime and anywhere.  By utilizing this App, you can select one of the following levels of yoga plans, Beginner, Intermediate, or Advanced. Each plan contains information on the yoga positions, images and description. The plans are available both in English and Sanskrit.",
         "github":"https://github.com/awkwardlynumb/tallPulpRockers",
         "deploymenturl":"https://tall-pulp-rockers.herokuapp.com/",
