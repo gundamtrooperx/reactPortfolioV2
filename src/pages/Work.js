@@ -22,7 +22,7 @@ export const assignments =
     {
         "name":"Student Store",
         "image":"./storefront.png",
-        "description":"Javascripts app with alerts confim and prompt",
+        "description":"The app for Student Store is an ecommerce app that has a login handler page or to signup to become a member of the website.  As well as having an admin login for owners of the store online.  On the home page displays the products available from the store as well as the ratings and the cost for each student to hire.  Has its own shopping cart increment and decrement feature for adding items to your total cart.  While also displaying the total cost for the items in your cart.  Has a feature to add in a new product onto the website.",
         "github":"https://github.com/14Anthony/StudentStore/pulse/monthly",
         "deploymenturl":"https://sway.office.com/WjxDnGZNf38Csa96?ref=Link",
 
