@@ -24,16 +24,9 @@ function AboutMe() {
                 <div className="col-md-9" id="aboutMeParagraph">
 
                     <p>
-                        I'm Frank Carr, not born in Arizona although I have lived here for about 10 years
-                        of my life.
-                        During my time of living in AZ I have just been working full-time at a car dealership for
-                        Honda.
-                        Mostly for about 3 years, but I want to start onto a new career which has led me to studying
-                        in a online class for the Full-Stack development course from the U-of-A University. I am
-                        currently learning the fundamentals
-                        of coding. So far with html, css, and js. So right now I may not have much experience but by
-                        the end of the course I'll have
-                        the skills you are looking for to hire!
+                    Full stack web developer educated at University of Arizona Coding Boot Camp.  
+                    With a list of skills in HTML, CSS, Javascript, and React.js.  Strengths on being a problem solver, flexible, and teamwork.  
+                    I’m eager to become a part of a team that is fast paced with a passionate team to help deliver better experiences together.
                     </p>
 
                 </div>
